@@ -3,7 +3,7 @@ DapperDemo
 
 A very simple project to help developers demonstrate and experiment with the [Dapper micro-ORM](https://code.google.com/p/dapper-dot-net/). I wrote this while introducing Dapper to some team-members.
 
-It automates set-up of a local test database so that you can try things out straight away.
+It automates set-up of a local test database so that you can get up-and-running straight away.
 
 Getting Started
 ---------------
